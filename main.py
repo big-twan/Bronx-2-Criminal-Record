@@ -268,4 +268,4 @@ async def record(ctx, name):
 
 
 
-bot.run('MTE3NjA0Mjg4MTczMjA2MzM0Mg.G47Lyp.R-0mtIyQtnghQWXpvH8qASyYs6IckUUMNDaYF8')
+bot.run('u gud')
